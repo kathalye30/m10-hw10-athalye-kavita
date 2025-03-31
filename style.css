@@ -24,14 +24,10 @@ body {
   flex-direction: column;
 }
 
-.textcopy__heading {
-  font-size: 2.5rem;
-}
-
 .textcopy__heading, .textcopy__subheading {
+  font-size: 2.5rem;
   text-align: center;
 }
-
 
 .header__link:hover {
   text-decoration: underline;
