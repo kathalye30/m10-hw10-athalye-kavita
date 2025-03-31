@@ -49,6 +49,15 @@ body {
   text-decoration: none;
 }
 
+.header__link {
+  margin: 0 4px;
+}
+
+.header__logo {
+  margin-right: auto;
+  text-transform: uppercase;
+}
+
 .textcopy__link {
   color: var(--danger-color);
   text-decoration: none;
@@ -65,14 +74,6 @@ nav {
   box-sizing: border-box;
 }
 
-.header__link {
-  margin-left: 24px;
-}
-
-.header__logo {
-  margin-right: auto;
-  text-transform: uppercase;
-}
 
 .hero, .textcopy {
   margin-bottom: 96px;
